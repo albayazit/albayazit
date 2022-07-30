@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Header](https://github.com/albayazit/albayazit/blob/main/data/header.png)](https://albayazit.ru/)
 
-<!--
-**albayazit/albayazit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python and Frontend developer
 
-Here are some ideas to get you started:
+### Currently working on                        
+[![AhiraBOT](https://img.shields.io/badge/-AhiraBOT-090909?style=for-the-badge&logoColor=ffff00)](https://github.com/albayazit/AhiraBOT)
+### Currently learning
+![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript&logoColor=ffff00)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=Python&logoColor=008000)
+
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=0000ff)](https://t.me/albayazit)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albayazit&show_icons=true&&theme=dark)](https://github.com/albayazit/)
