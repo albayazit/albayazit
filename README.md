@@ -14,5 +14,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=0000ff)](https://t.me/albayazit)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albayazit&show_icons=true&&theme=dark)](https://github.com/albayazit/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albayazit&layout=compact)](https://github.com/albayazit/)
