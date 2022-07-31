@@ -1,6 +1,6 @@
 [![Header](https://github.com/albayazit/albayazit/blob/main/data/header.png)](https://albayazit.ru/)
 
-## Python and Frontend developer
+## Bayazit Khasanov
 
 ### Currently working on                        
 [![AhiraBOT](https://img.shields.io/badge/-AhiraBOT-090909?style=for-the-badge&logoColor=ffff00)](https://github.com/albayazit/AhiraBOT)
