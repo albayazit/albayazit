@@ -1,6 +1,6 @@
 [![Header](https://github.com/albayazit/albayazit/blob/main/data/header.png)](https://albayazit.ru/)
 
-## Bayazit Khasanov
+<h1 align="center"><a href="https://albayazit.ru/" target="_blank">Bayazit Khasanov</a><p>
 
 ### Currently working on                        
 [![AhiraBOT](https://img.shields.io/badge/-AhiraBOT-090909?style=for-the-badge&logoColor=ffff00)](https://github.com/albayazit/AhiraBOT)
@@ -12,5 +12,10 @@
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=0000ff)](https://t.me/albayazit)
+
+### Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albayazit&&theme=dark)](https://git.io/streak-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albayazit&show_icons=true&&theme=dark)](https://github.com/albayazit/)
