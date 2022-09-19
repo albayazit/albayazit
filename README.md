@@ -3,7 +3,7 @@
 <h1 align="center"><a href="https://albayazit.ru/" target="_blank">Bayazit Khasanov</a><p>
 
 ### Currently working on                        
-[![AhiraBOT](https://img.shields.io/badge/-AhiraBOT-090909?style=for-the-badge&logoColor=ffff00)](https://github.com/albayazit/AhiraBOT)
+[![Albayazit](https://img.shields.io/badge/-Albayazit-090909?style=for-the-badge&logoColor=ffff00)](https://albayazit.ru/)
 ### Currently learning
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript&logoColor=ffff00)
 
