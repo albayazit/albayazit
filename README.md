@@ -1,7 +1,5 @@
 [![Header](https://github.com/albayazit/albayazit/blob/main/data/header.png)](https://albayazit.ru/)
 
-<h1 align="center"><a href="https://albayazit.ru/" target="_blank">Bayazit Khasanov</a><p>
-
 ### Currently working on                        
 [![Albayazit](https://img.shields.io/badge/-Albayazit-090909?style=for-the-badge&logoColor=ffff00)](https://albayazit.ru/)
 ### Currently learning
