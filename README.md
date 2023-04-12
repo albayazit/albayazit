@@ -2,13 +2,13 @@
   <img src="https://github.com/albayazit/albayazit/blob/main/data/name.gif">
   <h3>Kotlin developer from Tatarstan</h3>
   <div id="socials" align="center"> 
-    <a href= "https://www.linkedin.com/in/bayazit/">
+    <a href= "https://www.linkedin.com/in/bayazit/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a> 
-    <a href="https://bayazit.pro/">
+    <a href="https://bayazit.pro/" target="_blank">
       <img src="https://img.shields.io/badge/website-C4D85A?style=for-the-badge&logo=About.me&logoColor=000" alt="Website"/>
     </a> 
-    <a href="https://t.me/albayazit">
+    <a href="https://t.me/albayazit" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a> 
   </div>
