@@ -27,8 +27,8 @@
 ### Languages and tools:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,python,vscode,androidstudio,c,cs,js,css,html" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=kotlin,python,vscode,androidstudio,figma,c,cs,css,html,ai" />
   </a>
 </p>
 
