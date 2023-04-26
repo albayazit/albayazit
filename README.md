@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,androidstudio,c,cs,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=kotlin,python,vscode,androidstudio,c,cs,js,css,html" />
   </a>
 </p>
 
