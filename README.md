@@ -7,6 +7,9 @@
     </a> 
     <a href="https://bayazit.pro/" target="_blank">
       <img src="https://img.shields.io/badge/website-C4D85A?style=for-the-badge&logo=About.me&logoColor=000" alt="Website"/>
+    </a>
+    <a href="https://dribbble.com/albayazit" target="_blank">
+      <img src="https://img.shields.io/badge/Dribbble-C4D85A?style=for-the-badge&logo=Dribbble&logoColor=000" alt="Dribble"/>
     </a> 
     <a href="https://t.me/albayazit" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
