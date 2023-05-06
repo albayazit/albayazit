@@ -4,12 +4,15 @@
   <div id="socials" align="center"> 
     <a href= "https://www.linkedin.com/in/bayazit/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a> 
+    </a>
+    <a href="https://leetcode.com/bayazit/" target="_blank">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+    </a>
     <a href="https://bayazit.pro/" target="_blank">
       <img src="https://img.shields.io/badge/website-C4D85A?style=for-the-badge&logo=About.me&logoColor=000" alt="Website"/>
     </a>
     <a href="https://dribbble.com/albayazit" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-C4D85A?style=for-the-badge&logo=Dribbble&logoColor=000" alt="Dribble"/>
+      <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribble"/>
     </a> 
     <a href="https://t.me/albayazit" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
