@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
     </a>
     <a href="https://bayazit.pro/" target="_blank">
-      <img src="https://img.shields.io/badge/website-C4D85A?style=for-the-badge&logo=About.me&logoColor=000" alt="Website"/>
+      <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=devdotto&logoColor=white" alt="Website"/>
     </a>
     <a href="https://dribbble.com/albayazit" target="_blank">
       <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribble"/>
