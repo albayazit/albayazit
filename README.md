@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://leetcode.com/bayazit/" target="_blank">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
     </a>
     <a href="https://bayazit.pro/" target="_blank">
       <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=devdotto&logoColor=white" alt="Website"/>
