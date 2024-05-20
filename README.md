@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/albayazit/albayazit/blob/main/data/name.gif">
-  <h3>Kotlin developer from Tatarstan</h3>
+  <h3>Mainly focused on MobileApps and GameDev</h3>
   <div id="socials" align="center"> 
     <a href= "https://www.linkedin.com/in/bayazit/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
