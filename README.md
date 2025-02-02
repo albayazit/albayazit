@@ -31,6 +31,6 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=kotlin,python,vscode,androidstudio,figma,c,cs,css,html,ai" />
+    <img src="https://skillicons.dev/icons?i=kotlin,python,vscode,androidstudio,unity,figma,c,cs,ai" />
   </a>
 </p>
